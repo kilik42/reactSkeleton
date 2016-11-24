@@ -1,0 +1,27 @@
+{
+  "name": "reactskeleton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "watchify src/main.jsx",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kilik42/reactSkeleton.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kilik42/reactSkeleton/issues"
+  },
+  "homepage": "https://github.com/kilik42/reactSkeleton#readme",
+  "dependencies": {
+    "babel-preset-react": "^6.16.0",
+    "babelify": "^7.3.0",
+    "react": "^15.4.0",
+    "react-dom": "^15.4.0",
+    "watchify": "^3.7.0"
+  }
+}
